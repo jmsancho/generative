@@ -1,0 +1,5 @@
+![Sq](testSQ2.png)
+![Watercolor](watercolor.png)
+![Triangles1](testTRI2.png)
+![Triangles2](testTRI5.png)
+![Circuit](circuitwp2.png)
